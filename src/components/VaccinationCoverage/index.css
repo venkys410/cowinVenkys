@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bar-chart-container {
+  background-color: #1c1c2b;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.bar-chart-name {
+  color: #94a3b8;
+  font-family: 'Roboto';
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 1.5;
+}
